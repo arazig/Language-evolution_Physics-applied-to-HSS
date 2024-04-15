@@ -13,6 +13,7 @@ Lilou Soulas
 
 N personnes sont réunies autour d'un ensemble de M objets, et essaient de créer un langage commun pour désigner ces objets. Chaque personne dispose d'un inventaire, c'est à dire d'une liste d'associations mot-objet. Au début du jeu, tous les inventaires sont vides. A chaque étape, deux personnes sont prises au hasard, l'un parle (le speaker), l'autre écoute (le hearer) et procède à une interaction (voir règles de cette interaction dans l'article, ou dans le petit schéma en-dessous).
 
+![Dynamics of the inventories](Naming-game-Examples-of-the-dynamics-of-the-inventories-in-a-failed-top-and-a.png)
 
 Le système sera représenté par un dictionnaire, où chaque clé (numérotée de 1 à N) est une personne, et où chaque valeur est l'inventaire de la personne.
 
